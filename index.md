@@ -33,7 +33,7 @@
 	<div class="mdui-col-xs-12 mdui-m-b-2">
 		<div class="mdui-card">
 			<div class="mdui-card-primary">
-				<div class="mdui-card-primary-title">萌出血动漫发布页</div>
+				<div class="mdui-card-primary-title">萌出血发布页</div>
 				<div class="mdui-card-primary-subtitle">https://bbsmcx.github.io/mcx/</div>
 			</div>
 			<div class="mdui-card-content">最新域名都将在此更新，防迷路！请记住此域名 <span class="mdui-text-color-blue">https://bbsmcx.github.io/mcx/</span> 永久有效 建议收藏 求扩散求分享</div>
@@ -45,8 +45,8 @@
 		<a href="http://www.bbsmcx.com/" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
-					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d727e48d.jpg"/>
-					<div class="mdui-card-header-title">萌出血动漫最新网址</div>
+					<img class="mdui-card-header-avatar" src="https://i.loli.net/2020/02/12/YyFQrKn3jEvBf8z.png"/>
+					<div class="mdui-card-header-title">萌出血最新网址</div>
 					<div class="mdui-card-header-subtitle">http://www.bbsmcx.com/</div>
 				</div>
 				<div class="mdui-card-content">注意：暂无备用后缀</div>
@@ -57,8 +57,8 @@
 		<a href="http://www.bbsmcx.com" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
-					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d727e464.jpg"/>
-					<div class="mdui-card-header-title">萌出血动漫永久网址</div>
+					<img class="mdui-card-header-avatar" src="https://i.loli.net/2020/02/12/YyFQrKn3jEvBf8z.png"/>
+					<div class="mdui-card-header-title">萌动动漫永久网址</div>
 					<div class="mdui-card-header-subtitle">http://www.bbsmcx.com</div>
 				</div>
 				<div class="mdui-card-content">暂无备用后缀</div>
@@ -72,7 +72,7 @@
 		<a href="http://www.bbsmcx.com" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
-					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d72907b2.jpg"/>
+					<img class="mdui-card-header-avatar" src="https://i.loli.net/2020/02/12/YyFQrKn3jEvBf8z.png"/>
 					<div class="mdui-card-header-title">萌动</div>
 					<div class="mdui-card-header-subtitle">http://www.bbsmcx.com</div>
 				</div>
@@ -111,7 +111,7 @@
 		<a href="https://www.baidu.com" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
-					<img class="mdui-card-header-avatar" src="https://tva1.sinaimg.cn/large/4439bb5dgy1g9fd6u0jv2j202s02kt8l.jpg"/>
+					<img class="mdui-card-header-avatar" src="https://i.loli.net/2020/02/12/eQVohr4czlyC6RG.png"/>
 					<div class="mdui-card-header-title">暂无说明</div>
 					<div class="mdui-card-header-subtitle">https://baidu.com</div>
 				</div>
@@ -122,7 +122,7 @@
 	<div class="mdui-col-xs-12 mdui-col-sm-12 mdui-m-b-2">
 		<div class="mdui-card">
 			<div class="mdui-card-header">
-				<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d72ab10e.jpg"/>
+				<img class="mdui-card-header-avatar" src="https://i.loli.net/2020/02/12/ECoGOmRnwut3ZFK.png"/>
 				<div class="mdui-card-header-title">萌出血动漫交流群</div>
 				<div class="mdui-card-header-subtitle">TG: 暂无　QQ: 无</div>
 			</div>
@@ -134,11 +134,11 @@
 	<div class="mdui-col-xs-12 mdui-col-sm-6 mdui-m-b-2">
 		<div class="mdui-card">
 			<div class="mdui-card-header">
-				<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d72a28ce.jpg"/>
+				<img class="mdui-card-header-avatar" src="https://i.loli.net/2020/02/12/FPfhoptXEI7JCnk.png"/>
 				<div class="mdui-card-header-title">萌出血动漫</div>
 				<div class="mdui-card-header-subtitle">mcx</div>
 			</div>
-			<div class="mdui-card-content"><img src="https://i.loli.net/2020/02/12/cCvzGam2iBxpJHY.png" width="50%"></div>
+			<div class="mdui-card-content"><img src="https://i.loli.net/2020/02/12/bq1i6VeLjEGRtdB.jpg" width="50%"></div>
 		</div>
 	</div>
 
