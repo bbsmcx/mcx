@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
@@ -7,9 +5,9 @@
 	<meta http-equiv="Cache-Control" content="no-transform" />
 	<meta http-equiv="Cache-Control" content="no-siteapp" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge, chrome=1"/>
-	<meta name="description" content="爱弹幕最新地址发布页">
-	<title>爱弹幕 - 最新地址发布页</title>
-	<link rel="icon" href="https://taigt.github.io/idanmu/favicon.ico" />
+	<meta name="description" content="萌出血动漫最新地址发布页">
+	<title>萌出血动漫 - 最新地址发布页</title>
+	<link rel="icon" href="https://bbsmcx.github.io/mcx//favicon.ico" />
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdui/0.4.2/css/mdui.min.css" rel="stylesheet">
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
@@ -34,10 +32,10 @@
 	<div class="mdui-col-xs-12 mdui-m-b-2">
 		<div class="mdui-card">
 			<div class="mdui-card-primary">
-				<div class="mdui-card-primary-title">爱弹幕发布页</div>
-				<div class="mdui-card-primary-subtitle">https://taigt.github.io/idanmu</div>
+				<div class="mdui-card-primary-title">萌出血动漫发布页</div>
+				<div class="mdui-card-primary-subtitle">https://bbsmcx.github.io/mcx/</div>
 			</div>
-			<div class="mdui-card-content">最新域名都将在此更新，防迷路！请记住此域名 <span class="mdui-text-color-blue">https://taigt.github.io/idanmu</span> 永久有效 建议收藏 求扩散求分享</div>
+			<div class="mdui-card-content">最新域名都将在此更新，防迷路！请记住此域名 <span class="mdui-text-color-blue">https://bbsmcx.github.io/mcx/</span> 永久有效 建议收藏 求扩散求分享</div>
 		</div>
 	</div>
 
@@ -47,7 +45,7 @@
 			<div class="mdui-card">
 				<div class="mdui-card-header">
 					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d727e48d.jpg"/>
-					<div class="mdui-card-header-title">爱弹幕最新网址</div>
+					<div class="mdui-card-header-title">萌出血动漫最新网址</div>
 					<div class="mdui-card-header-subtitle">https://idanmu.at</div>
 				</div>
 				<div class="mdui-card-content">注意：加https</div>
@@ -59,7 +57,7 @@
 			<div class="mdui-card">
 				<div class="mdui-card-header">
 					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d727e464.jpg"/>
-					<div class="mdui-card-header-title">爱弹幕永久网址</div>
+					<div class="mdui-card-header-title">萌出血动漫永久网址</div>
 					<div class="mdui-card-header-subtitle">http://www.idanmu.com</div>
 				</div>
 				<div class="mdui-card-content">暂时无法访问</div>
@@ -124,7 +122,7 @@
 		<div class="mdui-card">
 			<div class="mdui-card-header">
 				<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d72ab10e.jpg"/>
-				<div class="mdui-card-header-title">爱弹幕交流群</div>
+				<div class="mdui-card-header-title">萌出血动漫交流群</div>
 				<div class="mdui-card-header-subtitle">TG: idanmu　QQ: 552558685</div>
 			</div>
 			<div class="mdui-card-content">TG食用方法请自行百度<br />群密码：关注微信公众号，公众号里输入“群答案”获取</div>
@@ -136,7 +134,7 @@
 		<div class="mdui-card">
 			<div class="mdui-card-header">
 				<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d72a28ce.jpg"/>
-				<div class="mdui-card-header-title">爱弹幕微信公众号</div>
+				<div class="mdui-card-header-title">萌出血动漫微信公众号</div>
 				<div class="mdui-card-header-subtitle">i-danmu</div>
 			</div>
 			<div class="mdui-card-content"><img src="https://i.loli.net/2019/04/24/5cc05d72c2316.jpg" width="50%"></div>
