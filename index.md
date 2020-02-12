@@ -138,7 +138,7 @@
 				<div class="mdui-card-header-title">萌出血动漫</div>
 				<div class="mdui-card-header-subtitle">mcx</div>
 			</div>
-			<div class="mdui-card-content"><img src="#" width="50%"></div>
+			<div class="mdui-card-content"><img src="https://i.loli.net/2020/02/12/cCvzGam2iBxpJHY.png" width="50%"></div>
 		</div>
 	</div>
 
