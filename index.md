@@ -1,3 +1,4 @@
+
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
@@ -41,26 +42,26 @@
 
 	<div class="mdui-col-sm-6"><div class="mdui-row">
 	<div class="mdui-col-xs-12 mdui-col-sm-6 mdui-m-b-2">
-		<a href="https://idanmu.at" target="_blank">
+		<a href="http://www.bbsmcx.com/" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
 					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d727e48d.jpg"/>
 					<div class="mdui-card-header-title">萌出血动漫最新网址</div>
-					<div class="mdui-card-header-subtitle">https://idanmu.at</div>
+					<div class="mdui-card-header-subtitle">http://www.bbsmcx.com/</div>
 				</div>
-				<div class="mdui-card-content">注意：加https</div>
+				<div class="mdui-card-content">注意：暂无备用后缀</div>
 			</div>
 		</a>
 	</div>
 	<div class="mdui-col-xs-12 mdui-col-sm-6 mdui-m-b-2">
-		<a href="http://www.idanmu.com" target="_blank">
+		<a href="http://www.bbsmcx.com" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
 					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d727e464.jpg"/>
 					<div class="mdui-card-header-title">萌出血动漫永久网址</div>
-					<div class="mdui-card-header-subtitle">http://www.idanmu.com</div>
+					<div class="mdui-card-header-subtitle">http://www.bbsmcx.com</div>
 				</div>
-				<div class="mdui-card-content">暂时无法访问</div>
+				<div class="mdui-card-content">暂无备用后缀</div>
 			</div>
 		</a>
 	</div>
@@ -68,26 +69,26 @@
 
 	<div class="mdui-col-sm-6"><div class="mdui-row">
 	<div class="mdui-col-xs-12 mdui-col-sm-6 mdui-m-b-2">
-		<a href="https://www.acgke.net" target="_blank">
+		<a href="http://www.bbsmcx.com" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
 					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d72907b2.jpg"/>
-					<div class="mdui-card-header-title">次元客</div>
-					<div class="mdui-card-header-subtitle">https://www.acgke.net</div>
+					<div class="mdui-card-header-title">萌动</div>
+					<div class="mdui-card-header-subtitle">http://www.bbsmcx.com</div>
 				</div>
-				<div class="mdui-card-content">注意：加https 备用后缀.cc</div>
+				<div class="mdui-card-content">注意：暂无备用后缀</div>
 			</div>
 		</a>
 	</div>
 	<div class="mdui-col-xs-12 mdui-col-sm-6 mdui-m-b-2">
-		<a href="https://acg02.com" target="_blank">
+		<a href="https://www.bbsmcx.com/forum.php?mod=forumdisplay&fid=37" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
 					<img class="mdui-card-header-avatar" src="https://img.imoutomoe.net/images/2019/08/03/4439bb5dgy1fys67k6fhuj201n01nq2s.jpg"/>
-					<div class="mdui-card-header-title">次元计划</div>
-					<div class="mdui-card-header-subtitle">https://acg02.com</div>
+					<div class="mdui-card-header-title">萌动活动收集分享</div>
+					<div class="mdui-card-header-subtitle">https://www.bbsmcx.com/forum.php?mod=forumdisplay&fid=37</div>
 				</div>
-				<div class="mdui-card-content">注意：加https</div>
+				<div class="mdui-card-content">注意：无</div>
 			</div>
 		</a>
 	</div>
@@ -95,26 +96,26 @@
 
 	<div class="mdui-col-sm-6"><div class="mdui-row">
 	<div class="mdui-col-xs-12 mdui-col-sm-6 mdui-m-b-2">
-		<a href="https://idanmu.net" target="_blank">
+		<a href="https://sm.ms/" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
 					<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d7299dbc.jpg"/>
-					<div class="mdui-card-header-title">弹幕盘</div>
-					<div class="mdui-card-header-subtitle">https://idanmu.net</div>
+					<div class="mdui-card-header-title">SM图床</div>
+					<div class="mdui-card-header-subtitle">https://sm.ms/</div>
 				</div>
 				<div class="mdui-card-content">免费图床，外链图片</div>
 			</div>
 		</a>
 	</div>
 	<div class="mdui-col-xs-12 mdui-col-sm-6 mdui-m-b-2">
-		<a href="https://fulifuli.me" target="_blank">
+		<a href="https://www.baidu.com" target="_blank">
 			<div class="mdui-card">
 				<div class="mdui-card-header">
 					<img class="mdui-card-header-avatar" src="https://tva1.sinaimg.cn/large/4439bb5dgy1g9fd6u0jv2j202s02kt8l.jpg"/>
-					<div class="mdui-card-header-title">呋哩呋哩</div>
-					<div class="mdui-card-header-subtitle">https://fulifuli.me</div>
+					<div class="mdui-card-header-title">暂无说明</div>
+					<div class="mdui-card-header-subtitle">https://baidu.com</div>
 				</div>
-				<div class="mdui-card-content">天天有福利</div>
+				<div class="mdui-card-content">暂无说明</div>
 			</div>
 		</a>
 	</div>
@@ -123,9 +124,9 @@
 			<div class="mdui-card-header">
 				<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d72ab10e.jpg"/>
 				<div class="mdui-card-header-title">萌出血动漫交流群</div>
-				<div class="mdui-card-header-subtitle">TG: idanmu　QQ: 552558685</div>
+				<div class="mdui-card-header-subtitle">TG: 暂无　QQ: 无</div>
 			</div>
-			<div class="mdui-card-content">TG食用方法请自行百度<br />群密码：关注微信公众号，公众号里输入“群答案”获取</div>
+			<div class="mdui-card-content">TG食用方法请自行百度<br />群密码：无</div>
 		</div>
 	</div>
 	</div></div>
@@ -134,10 +135,10 @@
 		<div class="mdui-card">
 			<div class="mdui-card-header">
 				<img class="mdui-card-header-avatar" src="https://i.loli.net/2019/04/24/5cc05d72a28ce.jpg"/>
-				<div class="mdui-card-header-title">萌出血动漫微信公众号</div>
-				<div class="mdui-card-header-subtitle">i-danmu</div>
+				<div class="mdui-card-header-title">萌出血动漫</div>
+				<div class="mdui-card-header-subtitle">mcx</div>
 			</div>
-			<div class="mdui-card-content"><img src="https://i.loli.net/2019/04/24/5cc05d72c2316.jpg" width="50%"></div>
+			<div class="mdui-card-content"><img src="#" width="50%"></div>
 		</div>
 	</div>
 
